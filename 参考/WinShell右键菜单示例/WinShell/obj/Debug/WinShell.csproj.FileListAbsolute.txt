@@ -1,0 +1,6 @@
+G:\Desktop\WinShell3\WinShell\WinShell\bin\Debug\WinShell.dll
+G:\Desktop\WinShell3\WinShell\WinShell\bin\Debug\WinShell.pdb
+G:\Desktop\WinShell3\WinShell\WinShell\obj\Debug\WinShell.csproj.AssemblyReference.cache
+G:\Desktop\WinShell3\WinShell\WinShell\obj\Debug\WinShell.csproj.CoreCompileInputs.cache
+G:\Desktop\WinShell3\WinShell\WinShell\obj\Debug\WinShell.dll
+G:\Desktop\WinShell3\WinShell\WinShell\obj\Debug\WinShell.pdb
